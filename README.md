@@ -3,9 +3,13 @@
 Microsoft package **"Microsoft.Reporting.WebForm"** is a solution for utilizing the **ReportViewer** control in Web Forms.
 Unfortunately, **ASP.NET Core** does not support Web Forms, so ReportViewer control is not going to work there.
 
-With absents of "Microsoft.Reporting.WebForm" in ASP.NET Core, displaying SSRS reports in **ASP.NET Core MVC** Web App is a challenging topic for many developers. I hope, Microsoft will support web forms for ASP.NET Core in the future.
+With absents of "Microsoft.Reporting.WebForm" in ASP.NET Core, displaying SSRS reports in **ASP.NET Core MVC** Web App is a challenging topic for many developers. 
 
-integrate SSRS report into asp.net core web app
+Microsoft has not release **SSRS viewer** for **ASP.NET MVC** yet.
+
+We hope, Microsoft will support web forms for ** ASP.NET Core** and integrate **SSRS** report into **ASP.NET Core** web app in the future.
+
+
 
 
 # Community Packages
