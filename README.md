@@ -22,20 +22,16 @@ Microsoft has not release **SSRS viewer** for **ASP.NET MVC** yet. We hope, Micr
 
      - https://weblogs.asp.net/rajbk/Contents/Item/Display/331
 
-      Part-1
-     - https://www.codemag.com/article/1009061
+     - Part-1 https://www.codemag.com/article/1009061
        
-      Part-2
-     - https://www.codemag.com/article/1011131/Incorporating-ASP.NET-MVC-and-SQL-Server-Reporting-Services-Part-2
-
-     
+     - Part-2 https://www.codemag.com/article/1011131/Incorporating-ASP.NET-MVC-and-SQL-Server-Reporting-Services-Part-2
 
 
 # Community Packages
 
-  1- https://github.com/alanjuden/MvcReportViewer (ASP.NET Core support)
+  - https://github.com/alanjuden/MvcReportViewer (ASP.NET Core support)
 
-  2- https://github.com/ilich/MvcReportViewer
+  - https://github.com/ilich/MvcReportViewer
     
 This package does not work with asp.net core. 
 It internally hosts the webform control and calls it’s render. 
@@ -45,7 +41,7 @@ The **asp .net core** site can use an **iframe** or **link to the SSRS** site.
 
 It should be possible to update the MvcReportViewer to proxy a call to the SSRS site instead of hosting the actual control.
 
-  3- [ReportViewerForMVC](https://github.com/chasoliveira/ReportViewerForMvc)
+  - [ReportViewerForMVC](https://github.com/chasoliveira/ReportViewerForMvc)
 
      https://www.nuget.org/packages/Chaso.ReportViewerForMvc/
      
@@ -54,8 +50,19 @@ It should be possible to update the MvcReportViewer to proxy a call to the SSRS 
 
 # References
 
+  - Integrating Reporting Services by using SOAP
+  - https://learn.microsoft.com/en-us/sql/reporting-services/application-integration/integrating-reporting-services-using-soap?view=sql-server-2016
+    
+  - Integrating Reporting Services by using the Report Viewer control
+  - https://learn.microsoft.com/en-us/sql/reporting-services/application-integration/integrating-reporting-services-using-reportviewer-controls?view=sql-server-2016
+    
+  - Integrating Reporting Services by using URL access
+  - https://learn.microsoft.com/en-us/sql/reporting-services/application-integration/integrating-reporting-services-using-url-access?view=sql-server-2016
+    
+  - choosing-between-url-access-and-soap
+  - https://learn.microsoft.com/en-us/sql/reporting-services/application-integration/choosing-between-url-access-and-soap?view=sql-server-2016
+
   - https://stackoverflow.com/questions/7691328/asp-net-mvc-ssrs-embeded-report
-  - 
 
   - https://github.com/dotnet/aspnetcore/issues/1528
 
