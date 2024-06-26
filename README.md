@@ -12,6 +12,7 @@ With absents of "Microsoft.Reporting.WebForm" in ASP.NET MVC, displaying SSRS re
 
 Microsoft has not release **SSRS viewer** for **ASP.NET MVC** yet. We hope, Microsoft support web forms for **ASP.NET MVC** and integrate **SSRS** report into **ASP.NET MVC** web app in the future.
 
+
 # Solutions
 
   2. Two Co-Existing Web-Frameworks (web form project along with MVC project)
@@ -71,6 +72,9 @@ It should be possible to update the MvcReportViewer to proxy a call to the SSRS 
 # .Net Reading List
 
 https://www.codemag.com/magazine/allissues
+
+
+# Tools
 
 https://marketplace.visualstudio.com/search?term=services&target=VS&category=All%20categories&vsVersion=&sortBy=Relevance
 
