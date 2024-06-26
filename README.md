@@ -69,13 +69,20 @@ It should be possible to update the MvcReportViewer to proxy a call to the SSRS 
 
   - https://learn.microsoft.com/en-us/answers/questions/1365398/how-to-integrate-ssrs-in-asp-net-core-mvc
 
+  - https://www.code2night.com/Blog/MyBlog/Create-and-display-SSRS-Report-in-ASP.NET-MVC
+  - https://www.youtube.com/watch?v=AMzaPrchvrc
+
+  - Creating SSRS Report from ASP.NET Core Web API Output Data
+  - https://www.youtube.com/watch?v=CdeJbBkcY5I
+
+
 # .Net Reading List
 
-https://www.codemag.com/magazine/allissues
+  - https://www.codemag.com/magazine/allissues
 
 
 # Tools
 
-https://marketplace.visualstudio.com/search?term=services&target=VS&category=All%20categories&vsVersion=&sortBy=Relevance
-
-
+  - marketplace.visualstudio.com
+    https://marketplace.visualstudio.com/search?term=services&target=VS&category=All%20categories&vsVersion=&sortBy=Relevance
+    
